@@ -1,0 +1,24 @@
+{
+  "name": "VideoCall - Free Video Calling App",
+  "short_name": "VideoCall",
+  "description": "Free, secure video calling for everyone. Connect with friends, family, and colleagues instantly.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
