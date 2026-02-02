@@ -25,7 +25,7 @@ export const Hero = () => {
     <div className="bg-gray-50">
       <section className="pt-20 pb-12 sm:pb-16 lg:pt-24">
         <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
-          <div className="grid max-w-lg grid-cols-1 mx-auto lg:max-w-full lg:items-center lg:grid-cols-2 gap-y-12 lg:gap-x-16">
+          <div className="grid max-w-lg grid-cols-1 mx-auto lg:max-w-full lg:items-center lg:grid-cols-2 gap-y-16 lg:gap-y-12 lg:gap-x-16">
             <div className="animate-slideInLeft">
               <div className="text-center lg:text-left">
                 <h1 className="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl sm:leading-tight lg:leading-tight lg:text-6xl font-pj">
