@@ -28,10 +28,10 @@ export const Hero = () => {
           <div className="grid max-w-lg grid-cols-1 mx-auto lg:max-w-full lg:items-center lg:grid-cols-2 gap-y-12 lg:gap-x-16">
             <div className="animate-slideInLeft">
               <div className="text-center lg:text-left">
-                <h1 className="text-4xl font-bold leading-tight text-gray-900 sm:text-5xl sm:leading-tight lg:leading-tight lg:text-6xl font-pj">
+                <h1 className="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl sm:leading-tight lg:leading-tight lg:text-6xl font-pj">
                   Meet With Your Family Friends
                 </h1>
-                <p className="mt-2 text-lg text-gray-600 sm:mt-8 font-inter">
+                <p className="mt-4 text-base text-gray-600 sm:mt-8 sm:text-lg font-inter">
                   Start a free conference call with your friends, family or team members. No sign up required.
                 </p>
 
