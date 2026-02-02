@@ -49,7 +49,7 @@ export const Hero = () => {
                     <div className="mt-4 sm:mt-0 sm:absolute sm:inset-y-0 sm:right-0 sm:flex sm:items-center sm:pr-2">
                       <button
                         onClick={submitHandler}
-                        className="inline-flex px-6 py-3 text-lg font-bold text-white transition-all duration-200 bg-pink-500 rounded-lg focus:outline-none focus:bg-gray-600 font-pj hover:bg-gray-600 hover:scale-105 transform">
+                        className="inline-flex px-6 py-3 text-lg font-bold text-white transition-all duration-200 bg-pink-500 rounded-lg focus:outline-none focus:bg-gray-600 font-pj hover:bg-gray-600 hover:scale-105 transform"
                       >
                         Join Room
                       </button>
@@ -62,7 +62,7 @@ export const Hero = () => {
                   
                   <button
                     onClick={createRoom}
-                    className="w-full mt-4 px-6 py-4 text-lg font-bold text-pink-500 transition-all duration-200 bg-white border-2 border-pink-500 rounded-lg focus:outline-none hover:bg-pink-50 font-pj hover:scale-105 transform">
+                    className="w-full mt-4 px-6 py-4 text-lg font-bold text-pink-500 transition-all duration-200 bg-white border-2 border-pink-500 rounded-lg focus:outline-none hover:bg-pink-50 font-pj hover:scale-105 transform"
                   >
                     Create New Room
                   </button>
