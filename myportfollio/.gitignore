@@ -1,0 +1,21 @@
+# Node modules and dist
+node_modules/
+dist/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.env
+
+# Log files
+*.log
+
+# System folders outside this project (ignore all parent directories)
+../*
+
+# Allow current directory contents
+!./*
+
+# Ignore build artifacts
+*.tgz
